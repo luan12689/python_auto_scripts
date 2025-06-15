@@ -62,6 +62,12 @@ Downloaded MP3 files will be in a subfolder of `/home/luan/music/` named with th
 
 ---
 
+## 🖥️ Example Run
+
+Below is a screenshot and sample output from running the script:
+
+![Sample run of dlp.py](result.png)
+
 ## 📝 Other Scripts
 
 - [`convert_vietnames.py`](convert_vietnames.py): Standalone script to sanitize filenames in a directory.
